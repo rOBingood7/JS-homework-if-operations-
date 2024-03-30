@@ -14,9 +14,9 @@ if (name === "putin" || name === "biden" || name === "zelenskiy" || name === "lu
 
 
 if (num % 2 === 0) {
-    alert('Чётное');
+    alert('even');
 } else {
-    alert('Нечётное');
+    alert('odd');
 }
  */
 
